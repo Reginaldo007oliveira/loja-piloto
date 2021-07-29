@@ -4,10 +4,7 @@
 <img src="./tela1.png">
 
 
-📖 - Projeto para o Desafio 2 do #hiringcoders, com o intúito de desenvolver um sistema de E-commerce, que guarde dados de clientes, endereços, produtos, devidamente
-estruturados no localstorage. Para este projeto, foi desenvolvido uma loja da Core Biz que possui sistema de carrinho com os produtos que estão cadastrados na Api.
-
-📖 - FakeApi criada com o site <a href="https://my-json-server.typicode.com/">My Json Server</a>, utilizada para funcionar como uma "database" dos produtos
+📖 -  Para este projeto, foi desenvolvido uma loja da Core Biz que possui sistema de carrinho com os produtos que estão cadastrados na Api.
 
 📖 - <a href="https://github.com/reginaldo007oliveira">Link do Repositório da FakeApi</a>
 
@@ -21,7 +18,7 @@ estruturados no localstorage. Para este projeto, foi desenvolvido uma loja da Co
 - Fake-Api
 
 <h2>Para iniciar o projeto use: </h2>
-git clone https://github.com/reginaldo007oliveira
+git clone https://github.com/Reginaldo007oliveira/loja-piloto
 
 <h2>Para iniciar a aplicação:</h2>
 
