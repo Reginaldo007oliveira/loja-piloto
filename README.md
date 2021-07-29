@@ -18,7 +18,7 @@
 - Fake-Api
 
 <h2>Para iniciar o projeto use: </h2>
-git clonehttps://github.com/Reginaldo007oliveira/loja-piloto.git
+git clone https://github.com/Reginaldo007oliveira/loja-piloto.git
 
 <h2>Para iniciar a aplicação:</h2>
 
