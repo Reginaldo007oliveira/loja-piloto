@@ -6,8 +6,7 @@
 
 📖 -  Para este projeto, foi desenvolvido uma loja da Core Biz que possui sistema de carrinho com os produtos que estão cadastrados na Api.
 
-📖 - <a href="https://github.com/reginaldo007oliveira">Link do Repositório da FakeApi</a>
-
+📖 -  Linkedin: https://www.linkedin.com/in/reginaldo-oliveira-b962a668/
 <h2>🚀 Tecnologias utilizadas: </h2>
 
 - HTML
